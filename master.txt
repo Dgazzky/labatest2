@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 this is a file for master, edited to merge
-=======
-this is a file for dev, to create conflict
->>>>>>> dev
